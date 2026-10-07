@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.13.16-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+![Data Analytics](https://img.shields.io/badge/Analytics-E--Commerce-FF6F00?style=for-the-badge)
 ---
 
 ## 💼 1. Business Problem
